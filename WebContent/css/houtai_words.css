@@ -1,0 +1,111 @@
+@charset "utf-8";
+/* CSS Document */
+.top{
+	width:960px;
+	height:50px;
+	border-bottom:1px solid #662e00;
+	background-color:#ededed;
+}
+.top_floatLeft,.top_floatRight{
+	margin-left:10px;
+	padding-top:17px;
+	float:left;
+	font-size:16px;
+	font-weight:bold;
+	line-height:normal;
+	color:#672d00;
+}
+.top_floatRight{
+	margin-right:6px;
+	padding-top:19px;
+	float:right;
+	font-size:11px;
+}
+.text2{
+	color:#474747;
+}
+.big_div{
+	width:960px;
+	min-height:430px;
+	padding-top:10px;
+	border-bottom:0px;
+	background-color:#ededed;
+}
+.big_inner_left{
+	width:210px;
+	min-height:379px;
+	float:left;
+	padding-left:20px;
+	padding-top:11px;
+	border-right:1px #BBB solid;
+/*	background-color:#FC9;*/
+}
+.big_inner_right{
+	width:712px;
+	min-height:400px;
+	float:left;
+	margin-left:8px;
+	padding-top:13px;
+	border:0px;
+/*	background-color:#FFF;*/
+}
+.inner_left_div1{
+	width:180px;
+	height:33px;
+	font-size:15px;
+	font-weight:bold;
+	line-height:33px;
+	color:#FFF;
+	background-image:url(../images/houtai/back_02.jpg);
+	margin-top:2px;
+}
+.inner_right_div1{
+	width:704px;
+	height:37px;
+	padding-left:8px;
+	border-bottom:1px #bcbcbc solid;
+}
+.text3{
+	font-size:16px;
+	font-weight:bold;
+	color:#672d00;
+}
+.inner_right_div2{
+	width:704px;
+	min-height:125px;
+	padding-left:8px;
+	border:0px;
+	margin-top:30px;
+/* 	background-color:#CCF; */
+}
+.div_13{
+	width: 625px;
+	height: 67px;
+	background-color: #fee7df;
+	border-bottom: 1px #d3b3b6 solid;
+	margin-left: 11px;
+	padding-top: 5px;
+	padding-left: 5px;
+}
+.div_13_img{
+	width: 60px;
+	height: 60px;
+	border: 1px #c4c4c4 solid;
+	float: left;
+}
+.div_13_xinxi{
+	width: 545px;
+	height: 60px;
+	margin-left: 10px;
+}
+.main_a:link{
+	text-decoration:none;
+	color:#FFF;
+}
+.main_a:hover{
+	text-decoration:underline;
+}
+.main_a:visited{
+	text-decoration:none;
+	color:#FFF;
+}

@@ -1,0 +1,205 @@
+@charset "utf-8";
+/* CSS Document */
+a{
+	text-decoration:none;
+	color:#FFF;
+}
+.middle_down_in2_inner_left,.middle_down_in2_inner_right{
+	float:left;
+	margin-left:50px;
+	color:#FFF;
+	font-size:11px;
+	font-weight:bold;
+	text-align:center;
+}
+.middle_down_in2_inner_right{
+	float:right;
+	margin-right:113px;
+}
+.middle_down_in3_table{
+	min-height:280px;
+	border-left:1px #CCC solid;
+	border-right:1px #CCC solid;
+}
+.middle_down_in3_table_td1,.middle_down_in3_table_td2{
+	width:749px;
+	height:40px;
+	line-height:40px;
+	border-bottom:4px #d7bbaf solid;
+	background-color:#FFF;
+}
+.middle_down_in3_table_td1{
+	width:168px;
+	border-right:1px solid #c9c3c3;
+	background-color:#fee7df;
+}
+.td2_top_floatLeft{
+	float:left;
+	margin:0px;
+}
+.table_td3{
+	text-align:center;
+	width:168px;
+	height:241px;
+	border-right:1px solid #c9c3c3;
+	border-bottom:1px #c3c8c4 solid;
+	margin:0px;
+	padding:0px;
+	background-color:#fee7df;
+
+}
+.table_td4{
+	border:0px;
+	border-bottom:1px #c3c8c4 solid;
+	width:713px;
+	height:242px;
+	text-align:left;
+	margin:0px;
+	padding:0px;
+	padding-top:14px;
+	padding-left:18px;
+	padding-right:18px;
+    background-color:#FFF;
+}
+.img_div{
+	margin-left:22px;
+	margin-top:10px;
+	width:120px;
+	height:100px;
+	
+	border:2px #d6bbb0 solid;
+}
+.images{
+	width:120px;
+	height:100px;
+}
+.td3_div{
+	width:168px;
+	height:42px;
+}
+hr{
+	margin:0px;
+	size:1px;
+	border:1px #999 dashed;
+}
+.td4_div{
+	clear:both;
+	width:725px;
+	height:42px;
+	padding:0px;
+	margin:0px;
+	
+}
+
+
+.reply_div{
+	width:878px;
+	height:306px;
+	border:1px #CCC solid;
+	padding-left:20px;
+	padding-right:20px;
+	padding-top:13px;
+	background-color:#FFF;
+}
+.reply_div_one{
+	float:left;
+	color:#ff0200;
+	font-weight:bold;
+	font-size:14px;
+}
+.reply_div_two{
+	float:right;
+	font-size:11px;
+	color:#000;
+}
+/*.form_div{
+	width:876px;
+	height:220px;
+	border:1px #C4C4C4 solid;
+	
+}*/
+.form_div_input{
+	width:870px;
+	height:210px;
+	display:block;
+	border:1px #C4C4C4 solid;
+}
+/*.textarea{
+	font-size: 14px;
+font-weight: normal;
+line-height: 20px;
+display: inline-block;
+color: #555;
+-webkit-appearance: textarea;
+background-color: white;
+-webkit-rtl-ordering: logical;
+-webkit-user-select: text;
+flex-direction: column;
+resize: auto;
+cursor: auto;
+white-space: pre-wrap;
+word-wrap: break-word;
+letter-spacing: normal;
+word-spacing: normal;
+text-transform: none;
+text-indent: 0px;
+text-shadow: none;
+text-align: start;
+-webkit-writing-mode: horizontal-tb;
+}*/
+.input_2{
+	width:129px;
+	height:22px;
+	border:1px #C4C4C4 solid;
+}
+.number_span{
+	width:60px;
+	height:20px;
+/*	display:block;*/
+	text-align:center;
+	background-image:url(../images/posting/yanzheng_back.jpg);
+/*	float:right;*/
+/*	margin-right:600px;*/
+}
+.input_3_sub{
+	width:95px;
+	height:28px;
+	background-color:#7d2501;
+	border:0px;
+	color:#FFF;
+}
+.text_span{
+	color:#592600;
+}
+
+.guanzhu_div,.yiguanzhu_div{
+	width:68px;
+	height:32px;
+	color:#FFF;
+	font-weight:bold;
+	background-color:#ff9f0a;
+	border:1px #FF9 solid;
+	text-align:center;
+	line-height:32px;
+	margin-left:50px;
+}
+.yiguanzhu_div{
+	width:100px;
+	margin-left:34px;
+	color:#CCC
+}
+.page_link_div{
+	color:#666;
+}
+.page_link:link{
+	color:#666;
+	text-decoration:none;
+}
+.page_link:hover{
+	color:#666;
+	text-decoration:underline;
+}
+.page_link:visited{
+	color:#666;
+	text-decoration:none;
+}

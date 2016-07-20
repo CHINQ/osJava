@@ -1,0 +1,65 @@
+@charset "utf-8";
+/* CSS Document */
+ body {
+	margin: 0px auto;
+	padding: 0px;
+	width: 1259px;
+	min-height: 280px;
+	background-color: #ededed;
+} 
+
+.lf {
+	float: left;
+	width: 220px;
+	height: 220px;
+}
+
+.rt {
+	float: left;
+	width: 700px;
+	min-height: 400px;
+/* 	margin-left: 10px; */
+/* 	clear: both; */
+}
+
+.fengge {
+	float: left;
+	width: 9px;
+	height: 220px;
+}
+
+.szbg {
+	background-image: url(../images/redbt.gif);
+	height: 33px;
+	width: 180px;
+}
+
+.szkg {
+	height: 3px;
+}
+
+.noxian {
+	text-decoration: none;
+	color: #FFF;
+	position: relative;
+	top: 8px;
+}
+
+.nozixian {
+	text-decoration: none;
+	color: #966;
+	font-size: 15px;
+}
+
+.caidan {
+	position: relative;
+	left: 20px;
+	top: 10px;
+}
+
+.dian {
+	background-color: #bababa;
+	width: 1px;
+	height: 360px;
+}
+

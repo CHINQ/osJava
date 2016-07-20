@@ -1,0 +1,57 @@
+@charset "utf-8";
+/* CSS Document */
+.total_header{
+	width:1259px;
+	height:60px;
+/* 	background-color:#06F; */
+	 background-color: #2a2a2a;
+}
+.ht_logo{
+	width:60px;
+	height:60px;
+	float:left;
+	margin-left:155px;
+}
+.big_text{
+	width:530px;
+	height:60px;
+	float:left;
+	margin-left:5px;
+	color: #fff;
+	font-family:"Comic Sans MS", cursive;
+/* 	background-color:#FF0; */
+}
+.little_link{
+	width:335px;
+	height:14px;
+	float:left;
+	margin-left:10px;
+	margin-top:40px;
+	color:#FFF;
+	font-size:13px;
+/*	background-color:#C99;*/
+}
+.oth:link{
+	color:#FFF;
+	text-decoration:none;
+}
+.oth:hover{
+	color:#FFF;
+	text-decoration:underline;
+}
+.oth:visited{
+	color:#FFF;
+	text-decoration:none;
+}
+.name:link{
+	color:#fa9509;
+	text-decoration:none;
+}
+.name:hover{
+	color:#fa9509;
+	text-decoration:underline;
+}
+.name:visited{
+	color:#fa9509;
+	text-decoration:none;
+}

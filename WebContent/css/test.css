@@ -1,0 +1,67 @@
+@charset "utf-8";
+/* CSS Document */
+.thd{ margin:0px;
+     padding:0px;
+	 width:960px;
+	 height:50px;
+	 border-bottom-color:#960;
+	 border-bottom-style:solid;
+	 border-bottom-width:1px;
+	 }
+.thd_rt{ margin:0px;
+         padding:0px;
+		 height:50px;
+		 width:800px;
+		 float:left;
+		 }
+.thd_rt a{ margin:0px;
+        padding:0px;
+		position:relative; top:18px; left:20px;
+		font-size:18px;
+		font-weight:bold;
+		color:#993;
+		 }
+.thd_lt{ margin:5px;
+         padding:0px;
+		 height:40px;
+		 width:100px;
+		 float:left;
+		 background-color:#962b00;
+		 }
+.thd_lt a{ margin:0px;
+        padding:0px;
+		position:relative; top:12px; left:13px;
+		font-size:18px;
+		color:#FFF;
+		 }
+.tft{ margin:0px;
+     padding:0px;
+	 width:960px;
+	 min-height:200px;
+	 
+	 }
+.tft table,td{ margin:20px auto;
+            padding:0px;
+			border:solid;
+			border-collapse:collapse;
+			border-width:1px;
+			border-color:#960;
+	      }
+h3{ color:#962b00;}
+h4{ color:#930;}
+.tr1{ background-color:#fee7df;
+      line-height:20px;}	 
+.span1{ font-size:14px;
+        font-weight:bold;
+        color:#962b00;}
+.span2{ font-size:14px;
+        color:#333;
+		line-height:20px;}
+.span3{ font-size:14px;
+        font-weight:bold;
+        color:#962b00;
+		line-height:20px;}
+.span4{ font-size:12px;
+        color:#a92415;
+		font-weight:bold;}
+		

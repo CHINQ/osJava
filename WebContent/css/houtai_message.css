@@ -1,0 +1,147 @@
+@charset "utf-8";
+/* CSS Document */
+a:link{
+	text-decoration:none;
+	color:#636363;
+}
+a:hover{
+	text-decoration:underline;
+}
+a:visited{
+	text-decoration:none;
+	color:#636363;
+}
+.main_a:link{
+	text-decoration:none;
+	color:#FFF;
+}
+.main_a:hover{
+	text-decoration:underline;
+}
+.main_a:visited{
+	text-decoration:none;
+	color:#FFF;
+}
+.top{
+	width:960px;
+	height:50px;
+	border-bottom:1px solid #662e00;
+	background-color:#ededed;
+}
+.top_floatLeft,.top_floatRight{
+	margin-left:10px;
+	padding-top:17px;
+	float:left;
+	font-size:16px;
+	font-weight:bold;
+	line-height:normal;
+	color:#672d00;
+}
+.top_floatRight{
+	margin-right:6px;
+	padding-top:19px;
+	float:right;
+	font-size:11px;
+}
+.text2{
+	color:#474747;
+}
+.big_div{
+	width:960px;
+	min-height:450px;
+	padding-top:10px;
+	border-bottom:0px;
+	background-color:#ededed;
+}
+.big_inner_left{
+	width:210px;
+	min-height:379px;
+	float:left;
+	padding-left:20px;
+	padding-top:11px;
+	border-right:1px #BBB solid;
+/*	background-color:#FC9;*/
+}
+.big_inner_right{
+	width:712px;
+	min-height:400px;
+	float:left;
+	margin-left:8px;
+	padding-top:13px;
+	border:0px;
+/*	background-color:#FFF;*/
+}
+.inner_left_div1{
+	width:180px;
+	height:33px;
+	font-size:15px;
+	font-weight:bold;
+	line-height:33px;
+	color:#FFF;
+	background-image:url(../images/houtai/back_02.jpg);
+	margin-top:2px;
+}
+.inner_right_div1{
+	width:704px;
+	height:37px;
+	padding-left:8px;
+	border-bottom:1px #bcbcbc solid;
+}
+.text3{
+	font-size:16px;
+	font-weight:bold;
+	color:#672d00;
+}
+.inner_right_div2{
+	width:704px;
+	min-height:125px;
+	padding-left:8px;
+	border:0px;
+	margin-top:30px;
+/*	background-color:#CCF;*/
+}
+.right_table{
+	width:700px;
+	/*border-top:1px #c6c6c6 solid;
+	border-left:1px #c6c6c6 solid;*/
+	border:1px #c6c6c6 solid;
+	border-bottom:0px;
+	text-align:center;
+}
+.right_tr1{
+	background-color:#666;
+}
+.right_td1{
+	width:140px;
+	min-height:30px;
+	border-bottom:1px #c6c6c6 solid;
+	border-right:1px #c6c6c6 solid;
+}
+.right_td2{
+	width:140px;
+	min-height:30px;
+	border-bottom:1px #c6c6c6 solid;
+}
+/*.form_1{
+	width:700px;
+	margin-left:auto;
+	margin-right:auto;
+}*/
+.table_1{
+	border:0px;
+}
+.anniu{
+	width: 72px;
+	height: 24px;
+	color: #fff;
+	border: 0px;
+	background-image:url(../images/words/back_2.jpg);
+}
+.come_in{
+	width:74px;
+	height:24px;
+	margin-left:30px;
+	text-align:center;
+	line-height:24px;
+	background-image:url(../images/houtai/back_03.jpg);
+}

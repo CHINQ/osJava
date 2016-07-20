@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+.div_22{
+	width: 600px; 
+	height: 30px; 
+	float: left; 
+	margin: 0px;
+	margin-left: 35px; 
+	border-bottom: 1px #c4c4c4 solid; 
+	text-align: center;
+	line-height: 30px;
+}
+.div_23{
+	width: 277px;
+	height: 30px;
+	float: left; 
+	margin: 0px;
+	border-bottom: 1px #c4c4c4 solid; 
+	text-align: center;
+	line-height: 30px;
+}
+.my_table{
+	width: 880px; 
+	height: 30px; 
+	border: 1px #c4c4c4 solid; 
+	background-color: #fee7df;
+	margin-left: 35px; 
+/*	margin-top: 10px; */
+	text-align: center;
+}
+.my_td_1{
+	width: 600px;
+	height: 30px;
+}
+.my_td_2{
+	width: 277px;
+	height: 30px;
+}
+.include_content_div{
+	width:960px;
+	min-height:390px;
+	background-color:#dedede;
+	margin:0px;
+	padding:0px;
+	padding-top:10px;
+}

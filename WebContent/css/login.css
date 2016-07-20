@@ -1,0 +1,362 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	margin: 0px auto;
+	padding: 0px;
+	width: 1257px;
+	min-height: 772px;
+}
+
+#href {
+	text-decoration: none;
+}
+
+.tops {
+	width: 1257px;
+	height: 60px;
+	background-color: #46acbb;
+	background-color: #46acbb;
+}
+
+.bg {
+	width: 1257px;
+	height: 820px;
+	background-image: url(../images/bg.jpg);
+}
+
+.logo {
+	width: 54px;
+	height: 46px;
+	background-image: url(../images/logo.png);
+	position: relative;
+	left: 135px;
+	top: 8px;
+}
+
+.logosize {
+	width:200px;
+	position: relative;
+	left: 200px;
+	top: -20px;
+	color: #FFF;
+}
+
+.bgct {
+	width: 980px;
+	height: 657px;
+	position: relative;
+	left: 138px;
+}
+
+.bgtop {
+	width: 980px;
+	height: 74px;
+	text-align: center;
+	padding-top: 30px;
+}
+
+.bgtopbl {
+	width: 980px;
+	height: 30px;
+	padding-top: 10px;
+	background-color: #575b5c;
+	color: #FFF;
+	opacity:0.6;
+	filter: Alpha(opacity =  60, finishopacity =  0, style =  0);
+}
+
+.bgtopkg {
+	widows: 980px;
+	height: 20px;
+}
+
+.bgctbt {
+	width: 980px;
+	height: 493px;
+}
+
+.bgctlt {
+	width: 652px;
+	height: 493px;
+	float: left;
+}
+
+.bgctltlt {
+	width: 29px;
+	height: 493px;
+	float: left;
+}
+
+.bgcltltlt {
+	width: 299px;
+	height: 493px;
+	float: left;
+}
+
+.bgctlttop {
+	widows: 652px;
+	height: 190px;
+	background-color: #575b5c;
+	opacity:0.6;
+	filter: Alpha(opacity =  60, finishopacity =  0, style =  0);
+}
+
+.bgctltct {
+	width: 652px;
+	height: 20px;
+}
+
+.bgctltbt {
+	width: 652px;
+	height: 283px;
+	background-color: #575b5c;
+	opacity:0.6;
+	filter: Alpha(opacity =  60, finishopacity =  0, style =  0);
+}
+
+.bgcltltlttop {
+	width: 299px;
+	height: 81px;
+	background-color: #575b5c;
+	opacity:0.6;
+	filter: Alpha(opacity =  60, finishopacity =  0, style =  0);
+}
+
+.bgcltltltct {
+	width: 299px;
+	padding-top: 3px;
+	height: 26px;
+	text-align: center; color : #C60;
+	font-size: 22px; font-weight : 800;
+	background: url(../images/zcbg.gif) top left repeat-y;
+	color: #C60; font-size : 22px;
+	font-weight: 800;
+}
+
+.bgcltltltbt {
+	width: 299px;
+	height: 403px;
+	background-color: #575b5c;
+	opacity:0.6;
+	filter: Alpha(opacity =  60, finishopacity =  0, style =  0);
+}
+
+.dl {
+	width: 112px;
+	height: 32px;
+	padding-top: 10px;
+	background-color: #ff9c00;
+	float: left;
+	position: relative;
+	top: 20px;
+	left: 25px;
+	text-align: center;
+	text-decoration: none;
+	color: #FFF;
+}
+
+.zc {
+	width: 112px;
+	height: 32px;
+	padding-top: 10px;
+	background-color: #46acbb;
+	float: left;
+	position: relative;
+	top: 20px;
+	left: 50px;
+	text-align: center;
+	text-decoration: none;
+	color: #FFF;
+}
+
+.bgtopsize {
+	text-align: center;
+	color: #FFF;
+	font-size: 38px;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-weight: 700;
+}
+
+.zcsize {
+	position: relative;
+	top: 10px;
+	color: #FFF;
+}
+
+.Main {
+	position: absolute;
+	z-index: 0;
+}
+
+.logintable {
+	clear: right;
+	width: 398px;
+	height: 115px;
+	text-align: center;
+	margin-top: 10px;
+	margin-left: 50%;
+	margin-left:285px;
+}
+
+.nowite {
+	text-decoration: none;
+}
+
+.teachermes {
+	text-decoration: none;
+	color: white;
+	height: 50px;
+}
+
+.teacherlf {
+	width: 130px;
+	height: 60px;
+	float: left;
+	text-align: center;
+}
+
+.teacherrt {
+	width: 130px;
+	height: 60px;
+	float: left;
+	text-align: center;
+}
+.botom{
+	width:1257px;
+	height:50px;text-align: center;color: #FFF;padding-top:30px;
+	background:#198496}
+	.sec1 {
+	BORDER-RIGHT: gray 1px solid;
+	BORDER-TOP: #ffffff 1px solid;
+	BORDER-LEFT: #ffffff 1px solid;
+	CURSOR: hand;
+	COLOR: #fff;
+	BORDER-BOTTOM: #ffffff 1px solid;
+	font-weight:bold;
+/* 	BACKGROUND-COLOR: #eeeeee */
+}
+
+.sec2 {
+	BORDER-RIGHT: gray 1px solid;
+	BORDER-TOP: #ffffff 1px solid;
+	FONT-WEIGHT: bold;
+	BORDER-LEFT: #ffffff 1px solid;
+	CURSOR: hand;
+	COLOR: #fff;
+	font-weight:bold;
+/* 	BACKGROUND-COLOR: #d4d0c8 */
+}
+
+.main_tab {
+	BORDER-RIGHT: gray 1px solid;
+	BORDER-LEFT: #ffffff 1px solid;
+	COLOR: #ccc;
+	font-weight:bold;
+	BORDER-BOTTOM: gray 1px solid;
+	/* BACKGROUND-COLOR: #d4d0c8 */
+}	
+.white{
+	color:#fff;
+	
+}
+/* 新加	 */
+.img_div_1,.img_div_2{
+	width:123px;
+	height:87px;
+	float:left;
+	margin-left:50px;
+	margin-top:60px;
+	background-image:url(../images/index/img_2.jpg);
+}
+.img_div_2{
+	margin-left:20px;
+	background-image:url(../images/index/img_1.jpg);
+}
+.text_div_3{
+	width:255px;
+	height:115px;
+	float:left;
+	margin-left:30px;
+	margin-top:65px;
+/*	background-color:#0F0*/
+}
+.a_link{
+	color:#FFF;
+/*	text-decoration:none;*/
+}
+
+.index_teacher{
+	width:299px;
+	height:100px;
+	margin-top:5px;
+}
+.touxiang_div{
+	width:120px;
+	height:100px;
+	float:left;
+	margin-left:15px;
+/*	background-color:#9F0;*/
+}
+.textintro_div{
+	width:150px;
+	height:100px;
+	float:left;
+	margin-left:9px;
+	color:#fff;
+	padding-top:5px;
+/*	background-color:#C6C;*/
+}
+.login_DL{
+	position:relative;
+	width:960px;
+	height:736px;
+	left:50%;
+	margin-left:-480px;
+}
+.login_DC{
+	position:relative;
+    padding-top:150px;
+	background-color:#fff;
+	height:500px;
+}
+.login_D{
+	padding-top:200px;
+	background-color:#3a3939;
+}
+.h2{
+	text-align: center;
+}
+.TXT{
+-webkit-appearance: none;
+display: block;
+border: 0;
+background: #f1f1f1;
+width: 100%;
+padding: 0.75em;
+-moz-transition: background-color 0.35s ease-in-out;
+-webkit-transition: background-color 0.35s ease-in-out;
+-o-transition: background-color 0.35s ease-in-out;
+-ms-transition: background-color 0.35s ease-in-out;
+transition: background-color 0.35s ease-in-out;
+}
+.submit{
+-webkit-appearance: none;
+position: relative;
+display: inline-block;
+border: 0;
+background: #35b88f;
+color: #fff;
+text-shadow: 0 0 0.5px rgba(255,255,255,0.25);
+cursor: pointer;
+text-decoration: none;
+outline: 0;
+padding: 1em 3em 1em 3em;
+text-align: center;
+border-radius: 3em;
+font-weight: 400;
+-moz-transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out;
+-webkit-transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out;
+-o-transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out;
+-ms-transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out;
+transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out;
+}

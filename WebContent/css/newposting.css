@@ -1,0 +1,72 @@
+@charset "utf-8";
+/* CSS Document */
+.xian2{
+	width:920px;
+	height:1px;
+	text-shadow:none;
+	clear:both;
+	margin:0px;
+}
+.reply_content_div{
+	width:742px;
+	height:350px;
+	color:#606060;
+	margin-left:20px;
+	padding-top:31px;
+/*	background-color:#CFC;*/
+}
+.body_text_div{
+	width:740px;
+	height:211px;
+	background-image:url(../images/posting/back_1.jpg);
+	padding-top:13px;
+}
+.sub_input{
+	width:72px;
+	height:24px;
+	border:0px;
+	background-image:url(../images/posting/back_2.jpg);
+}
+.text_span{
+	color:#592600;
+}
+.number_span{
+	width:60px;
+	height:20px;
+	text-align:center;
+	background-image:url(../images/posting/yanzheng_back.jpg);
+}
+.input_2{
+	width:129px;
+	height:22px;
+	border:1px #C4C4C4 solid;
+}
+.content_div{
+	width:728px;
+	height:202px;
+	background-image:url(../images/posting/back_3.jpg);
+	margin-left:5px;
+	padding-top:5px;
+}
+.content_div_in2{
+	width:718px;
+	height:23px;
+	background-image:url(../images/posting/back_4.jpg);
+	float:left;
+	margin-left:5px;
+	padding-top:3px;
+	text-align:center;
+}
+.form_div_files{
+	width:700px;
+	height:20px;
+}
+.text_area{
+	width:718px;
+	height:150px;
+	background-color:#FFF;
+	border:0px;
+	margin-left:5px;
+	margin-top:5px;
+	clear:both;
+}

@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+
+table,td{ margin:20px auto;
+            padding:0px;
+			border:solid;
+			border-collapse:collapse;
+			border-width:1px;
+			border-color:#960;
+			background-color:#FFC;
+	      }
